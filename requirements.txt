@@ -1,0 +1,7 @@
+gradio
+numpy
+pandas
+torch
+diffusers
+pillow
+psycopg2
